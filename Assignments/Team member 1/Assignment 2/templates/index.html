@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Homepage</title>
+    <style>
+        
+* {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    position: relative;
+    background: radial-gradient(50% 50% at 50% 50%, #2D0065 0%, #000000 100%);
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    min-height: 100vh;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+}
+
+
+.bttn-one {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+
+    width: 2rem;
+    height: 1rem;
+
+    border-radius: 1.25em;
+    padding: 2em 3.25em 2em 3.25em;
+    background: rgb(13, 0, 26);
+    color: white;
+    background-blend-mode: multiply;
+    box-shadow: 0em .25em 2em 0em rgba(253, 151, 255, 1);
+
+}
+
+
+.bttn-two {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+
+    width: 2rem;
+    height: 1rem;
+
+    padding: 2em 3.25em 2em 3.25em;
+    background: #010028;
+    color: white;
+    background-blend-mode: multiply;
+    box-shadow: 0em .25em 2em 0em #B0FFF1;
+    border-radius: 1.25em;
+
+}
+
+
+
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <form action="/login" method="POST">
+            <h1 style="color:white;font-size:100%;">WELCOME TO HOMEPAGE !!!</h1>
+            <input type="submit" class="bttn-two" value="LOGIN">
+        </form>
+        <form action="/register" method="POST">
+            <input type="submit" class="bttn-one" value="REGISTER">
+        </form>
+    </div>
+  </body>
+  </html>
