@@ -1,0 +1,2 @@
+delete from team where userID=4
+update team set username='Kumar' where userID=4
