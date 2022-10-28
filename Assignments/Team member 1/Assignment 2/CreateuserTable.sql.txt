@@ -1,0 +1,15 @@
+create database user_details
+use user_details 
+create table team
+(
+userID int primary key,
+username varchar(50),
+password varchar(50),
+email varchar(50),
+rollno int
+)
+insert into team values (1,'Newtton Habakuk','newta1','newttonhabakuk.s@gmail.com',711719104057);
+insert into team values (2,'NIVETHITHA','nivi2','nivethithashanmuganathan5@gmail.com',711719104061);
+insert into team values (3,'POOJA','pooja3','poojab@gmail.com',711719104063);
+insert into team values (4,'NAVEEN KUMAR','naveen4','naveenkumar@gmail.com',711719104055);
+select*from team
