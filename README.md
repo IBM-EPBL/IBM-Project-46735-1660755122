@@ -43,3 +43,14 @@ Team member3: Pooja b<br>
 - [x] Milestone and Activity List
 - [x] Sprint Delivery plan
 <hr>
+## 🔗 LINKS
+
+| TEAM MEMBERS | FOLDER LINK    |
+| ------------- | ------------- |
+| NEWTTON HABAKUK S | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-46735-1660755122/tree/main/Assignments/Team%20Leader">CLICK HERE!  </a></button>              
+| NAVEEN KUMAR S | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-46735-1660755122/tree/main/Assignments/Team%20member%201">CLICK HERE!  </a> </button> |
+| NIVETHITHA S    | <button><a href="https://github.com/IBM-EPBL/IBM-Project-46735-1660755122/tree/main/Assignments/Team%20member%202">CLICK HERE!  </a> </button> |
+| POOJA B     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-46735-1660755122/tree/main/Assignments/Team%20member%203">CLICK HERE!  </a> </button> |
+
+<hr>
+
