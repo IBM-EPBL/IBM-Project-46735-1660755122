@@ -1,11 +1,11 @@
 # IBM-Project-46735-1660755122
-Personal Expense Tracker Application
+<h2>Personal Expense Tracker Application</h2>
 
 
-Team members:
-Team leader: Newtton Habakuk S
-Team member1: Naveen Kumar S
-Team member2: Nivethitha S
-Team member3: Pooja b
+<b>Team members:</b><br>
+Team leader: Newtton Habakuk S<br>
+Team member1: Naveen Kumar S<br>
+Team member2: Nivethitha S<br>
+Team member3: Pooja b<br>
 
 
