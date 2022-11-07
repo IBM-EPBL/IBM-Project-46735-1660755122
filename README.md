@@ -14,8 +14,10 @@ Team member3: Pooja b<br>
 - [x] ASSIGNMENT 2
 - [x] ASSIGNMENT 3 
 
-##🧩 <b>PROJECT DESIGN & PLANNING<br>
-##📝 IDEATION PHASE</b>
+<hr>
+
+## PROJECT DESIGN & PLANNING
+# 🧩 IDEATION PHASE
 
       Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.
 - [x] Literature Survey
@@ -37,7 +39,7 @@ Team member3: Pooja b<br>
 - [x] Data Flow Diagrams
 - [x] Technology Stack
 
-# PLANNING PHASE
+# PROJECT PLANNING PHASE
 - [x] Milestone and Activity List
 - [x] Sprint Delivery plan
 
