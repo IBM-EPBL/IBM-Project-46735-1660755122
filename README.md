@@ -2,7 +2,7 @@
 <h2>Personal Expense Tracker Application</h2>
 
 
-<b>Team members:</b><br>
+## 🧑🏻‍🦰 TEAM MEMBERS
 Team leader: Newtton Habakuk S<br>
 Team member1: Naveen Kumar S<br>
 Team member2: Nivethitha S<br>
