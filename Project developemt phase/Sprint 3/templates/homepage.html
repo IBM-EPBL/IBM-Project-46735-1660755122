@@ -1,0 +1,69 @@
+{% extends 'base.html' %}
+
+{% block body %} 
+<style>
+body{
+    
+    /* background-image: url('../static/images/hb2.png'); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+img{
+    border-radius: 14px;
+}
+    H1 {
+       position: relative;
+       right: -650PX;
+       top: -350PX;
+       color:#000000;
+       font-size: 60px;
+
+    }
+
+p{
+position: relative;
+right: -680px;
+top: -300px;
+font-family:monospace;
+font-size: 18px;
+color: #000000;
+}
+
+span{
+    position: relative;
+right: -650px;
+top: -310px;
+color: rgb(221, 67, 157);
+}
+
+
+   .ccc {
+        position: relative;
+        top:80px;
+        left:-100px;
+        bottom: 100px;
+      
+    }
+   
+
+    
+    </style>
+    <div id=aa class="container">
+    <div class="ccc">
+        <!-- <img height="450px" width="450px" style="position: relative; top: 50px; left: 90PX;" src="../static/images/homepage1.png"> -->
+        <video height="450px" width="450px" style="position: relative; top: 50px; left: 90PX;" autoplay loop>
+            <source src="/static/images/hbg1.mp4" type="video/mp4">
+            <source src="/static/images/hbg1.ogg" type="video/ogg">
+          Your browser does not support the video tag.
+          </video>
+        <h1>LET'S START JOURNEY</h1>
+        <P>Fin Budget web application helps<br> you to maintain budget<br>
+             and analyse the expense...</P>
+        <img height="125px" width="13%" style="position: relative; top: -665PX; left: -50PX;" src="../static/images/stock3.png">
+         
+    </div>
+    <span  class="btn btn-outline-dark"><a style="color: #FFA62B;" href="/add">Let's Begin</a></span>
+</div>
+
+{% endblock %}
