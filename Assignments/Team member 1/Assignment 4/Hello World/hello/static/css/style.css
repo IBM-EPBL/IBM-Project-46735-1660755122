@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #efefef;
+    font-family: 'Poppins', sans-serif;
+}
+
+div{
+    margin-top: 200px;
+    width: 100%;
+    text-align: center;
+}
+
+
+@keyframes anim{
+    0%{color: red;}
+    25%{color: green;}
+    50%{color: rgb(255, 0, 140);}
+    75%{color: #0f62fe;}
+    100%{color: brown;}
+}
+
+
+h2{
+    text-align: center;
+    font-size: 90px;
+    animation: anim;
+    color: #0f62fe;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+p{
+    color: black;
+    font-size: 30px;
+}
