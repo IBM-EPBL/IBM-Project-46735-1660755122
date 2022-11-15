@@ -19,7 +19,7 @@ Team member3: Pooja b<br>
 - [x] ASSIGNMENT 1
 - [x] ASSIGNMENT 2
 - [x] ASSIGNMENT 3 
-
+- [x] ASSIGNMENT 4
 <hr>
 
 ## PROJECT DESIGN & PLANNING
@@ -52,7 +52,8 @@ Team member3: Pooja b<br>
 # ASSIGNMENT FINISHED
 - [x] Sprint 1
 - [x] Sprint 2
-
+- [x] Sprint 3
+- [x] Sprint 4
 ## 🔗 LINKS
 
 | TEAM MEMBERS | FOLDER LINK    |
@@ -62,7 +63,7 @@ Team member3: Pooja b<br>
 | NIVETHITHA S    | <button><a href="https://github.com/IBM-EPBL/IBM-Project-46735-1660755122/tree/main/Assignments/Team%20member%202">CLICK HERE!  </a> </button> |
 | POOJA B     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-46735-1660755122/tree/main/Assignments/Team%20member%203">CLICK HERE!  </a> </button> |
 
-# 👨🏻‍💻 TECHNOLOGIES USED <br />
+# 👨🏻‍💻 LANGUAGES AND TECHNOLOGIES USED <br />
 - HTML</br>
 - CSS</br>
 - JAVASCRIPT</br>
