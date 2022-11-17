@@ -49,16 +49,16 @@ Team member3: Pooja b<br>
 - [x] Milestone and Activity List
 - [x] Sprint Delivery plan
 
-# ASSIGNMENT FINISHED
+# PROJECT DEVELOPMENT PHASE
 - [x] Sprint 1
 - [x] Sprint 2
 - [x] Sprint 3
 - [x] Sprint 4
-## 🔗 LINKS
+## 🔗 ASSIGNMENT LINKS
 
 | TEAM MEMBERS | FOLDER LINK    |
 | ------------- | ------------- |
-| NEWTTON HABAKUK S | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-46735-1660755122/tree/main/Assignments/Team%20Leader">CLICK HERE!  </a></button>              
+| NEWTTON HABAKUK S | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-46735-1660755122/tree/main/Assignments/Team%20Leader">CLICK HERE!  </a></button>       
 | NAVEEN KUMAR S | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-46735-1660755122/tree/main/Assignments/Team%20member%201">CLICK HERE!  </a> </button> |
 | NIVETHITHA S    | <button><a href="https://github.com/IBM-EPBL/IBM-Project-46735-1660755122/tree/main/Assignments/Team%20member%202">CLICK HERE!  </a> </button> |
 | POOJA B     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-46735-1660755122/tree/main/Assignments/Team%20member%203">CLICK HERE!  </a> </button> |
@@ -67,7 +67,11 @@ Team member3: Pooja b<br>
 - HTML</br>
 - CSS</br>
 - JAVASCRIPT</br>
-- PYTHON</br>
-- IBM DATABASE</br>
+- PYTHON - FLASK</br>
+- IBM DB2</br>
+- DOCKER</br>
+- IBM CLOUD OBJECT STORAGE<br>
+- KUBERNETES<br>
+- IBM CONTAINER REGISTRY<br>
 
 
