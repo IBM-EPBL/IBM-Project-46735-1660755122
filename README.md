@@ -3,10 +3,6 @@
 <!-- PROJECT LOGO -->
 
 <p align="center">
-  <a href="https://github.com/IBM-EPBL/IBM-Project-46735-1660755122/tree/main">
-    <img src="/Images_content/logo.png.png" alt="logo" width="80" height="80">
-  </a>
-
 
 ## 🧑🏻‍🦰 TEAM MEMBERS
 Team leader: Newtton Habakuk S<br>
