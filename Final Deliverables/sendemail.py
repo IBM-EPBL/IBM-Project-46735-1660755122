@@ -9,7 +9,7 @@ def sendgridmail(user):
         subject='Your Monthly expense is exceeded',
         html_content='<strong>Avoid spending money, your monthly expense is exceeded...</strong>')
     try:
-        sg = SendGridAPIClient('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')
+        sg = SendGridAPIClient('SG.IC1hnQjMRA2pkcRTC-TrQQ.RWxmiv8Rd0jEasHnyrzECNeBFgseumaJnFwqgFZ')
         response = sg.send(message)
         print(response.status_code)
         print(response.body)
