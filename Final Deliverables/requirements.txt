@@ -1,0 +1,10 @@
+Flask
+requests
+flask_db2
+jsonify
+DB2
+Docker
+Kubernetes
+sendgrid
+
+
